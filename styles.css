@@ -1,0 +1,14 @@
+body head {
+    font-family: Verdana, "Times New Roman", sans-serif;
+}
+
+h1 {
+    text-align: center;
+    background-color: darkgray;
+    color: black;
+    font-size: 36px;
+}
+
+.recipes {
+    font-size: 22px;
+}
